@@ -1,5 +1,7 @@
+![MasterHead](https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif)
 <h1 align="center">Hi 👋, I'm Axel Darren Suryanto</h1>
 <h3 align="center">A passionate full-stack developer from Indonesia</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axeldarren&label=Profile%20views&color=0e75b6&style=flat" alt="axeldarren" /> </p>
 
