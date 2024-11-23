@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Genlingo](https://github.com/Axeldarren/GenLingo)
 
-- 🌱 I’m currently learning **MongoDB and Google Cloud Platform**
+- 🌱 I’m currently learning **ExpressJS, NodeJS, React and Google Cloud Platform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Axeldarren](https://github.com/Axeldarren)
 
