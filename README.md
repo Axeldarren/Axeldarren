@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axeldarren&label=Profile%20views&color=0e75b6&style=flat" alt="axeldarren" /> </p>
 
-- 🔭 I’m currently working on [Genlingo](https://github.com/Axeldarren/GenLingo)
+- 🔭 I’m currently working on [Genlingo](https://github.com/Axeldarren/GenLingo) and [Hyve](https://github.com/Axeldarren/Hyve-Notes-App)
 
 - 🌱 I’m currently learning **MERN Stack and Google Cloud Platform**
 
