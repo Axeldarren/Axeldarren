@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **axeldarren.suryanto@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1EpEi2HDlZ3GkyDDJO_O5RnZtEd7WS6KUVojKGsW2NqM/edit?usp=sharing](https://docs.google.com/document/d/1EpEi2HDlZ3GkyDDJO_O5RnZtEd7WS6KUVojKGsW2NqM/edit?usp=sharing)
+- 📄 Know about my experiences [https://axeltech-portfolio.vercel.app/](https://axeltech-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
